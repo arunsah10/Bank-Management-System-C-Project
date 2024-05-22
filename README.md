@@ -1,15 +1,17 @@
 # Bank-Management-System-C-Project
-The Bank Management System is a console-based application developed in C. This project aims to manage basic banking operations, providing a user-friendly interface for customers and bank administrators. 
 
-# Features
-Account Management:
+The Bank Management System is a console-based application developed in C. This project aims to manage basic banking operations, providing a user-friendly interface for customers and bank administrators.
 
-Create a new account
-View account details
-Modify existing account information
-Delete an account
+## Features
 
-Transaction Management:
-Deposit money
-Withdraw money
-Check account balance
+### Account Management:
+1. **Create a new account**
+2. **View account details**
+3. **Modify existing account information**
+4. **Delete an account**
+
+### Transaction Management:
+1. **Deposit money**
+2. **Withdraw money**
+3. **Check account balance**
+
